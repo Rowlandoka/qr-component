@@ -7,10 +7,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#HTML-CSS)
   - [What I learned](#what-i-learned)
-- [Author](# ROWLAND OKA)
+- [Author](#ROWLAND-OKA)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
